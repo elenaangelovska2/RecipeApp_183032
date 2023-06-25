@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57d8c19c-9a3e-471b-b78e-f64912f4ff3e" name="Changes" comment="" />
+    <list default="true" id="57d8c19c-9a3e-471b-b78e-f64912f4ff3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2ReyByugNelDii0BhVTQylNPLuP" />
   <component name="ProjectViewState">
@@ -25,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Korisnik/Downloads/RecipeApp_183032/app",
+    "last_opened_file_path": "C:/Users/Korisnik/Downloads/RecipeApp_183032",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687624710220</updated>
       <workItem from="1687624711279" duration="30000" />
+      <workItem from="1687629223445" duration="80000" />
     </task>
     <servers />
   </component>
